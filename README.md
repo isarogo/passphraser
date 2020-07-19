@@ -16,7 +16,7 @@ Run
 Where
 - *number_of_passwords*: an integer greater than `0`
 - *min_length*: an integer greater than `0` and less than the `max_length`
-- *min_length*: an integer greater than the `min_length`
+- *max_length*: an integer greater than the `min_length`
 - *title*: enter `1` for capitalizing each discrete phrase or `0` for all lowercase.
 - *verbose*: enter `1` to see the generated content and those that fail the tests or `0` for just the passwords.
 
