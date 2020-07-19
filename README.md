@@ -1,5 +1,5 @@
 # passphraser
-A python program to create an uncompromised passphrase from the diceware wordlist.
+A python program to create an uncompromised passphrase from the diceware wordlist. The program uses the most secure random number generator from the `secrets` package. It runs candidate passwords against the Have I Been Pwned API.
 
 ## Package Requirements
 - pandas
