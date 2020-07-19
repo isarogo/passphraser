@@ -26,7 +26,6 @@ Where
 
 results in something like:
 
-`WieldLaityStTitan
-Your password (1/2) is WieldLaityStTitan. It is 17 characters long and not a known pwned password
-HarmJcSlumpAnyCon
-Your password (2/2) is HarmJcSlumpAnyCon. It is 17 characters long and not a known pwned password`
+`Your password (1/2) is KindStareAbcGala. It is 16 characters long and not a known pwned password
+Your password (2/2) is VetoPantSawPansy. It is 16 characters long and not a known pwned password
+`
